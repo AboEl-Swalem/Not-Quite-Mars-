@@ -2,7 +2,6 @@
 
 Finds Earth analogs for the Moon by matching terrain slope. NASA Space Apps Challenge 2026.
 
-![Demo screenshot or GIF of the interactive map](images/demo.png)
 
 ## The Problem
 We can't test on the Moon or Mars before launch, so we look for Earth locations that resemble them.
@@ -49,4 +48,4 @@ Open `Lunar_Marmara_Interactive_Matching.html` in a browser to try the map.
 Mariam Hassan · Ahmed El-Banna · Abd Al-Rahman Salem
 
 ## License
-MIT (or whichever you choose)
+MIT 
